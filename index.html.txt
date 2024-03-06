@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Título da página</title>
+    <!--- Head HTML goes here -->
+    
+    <!--- Link to styles in CSS tab -->
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <h2>Coisas</h2>
+  </head>
+  <body>
+    <!--- Paste HTML below here -->
+    
+    <h1> Santos é um time de segunda divisão</h1>
+    <h2>Santos tem muito buraco</h2>
+    
+
+    <!--- Link to code in JavaScript tab -->
+    <script src="script.js"></script>
+  </body>
+</html>
